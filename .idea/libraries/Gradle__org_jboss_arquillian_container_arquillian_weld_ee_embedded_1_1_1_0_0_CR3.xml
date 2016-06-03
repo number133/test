@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.jboss.arquillian.container:arquillian-weld-ee-embedded-1.1:1.0.0.CR3">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jboss.arquillian.container/arquillian-weld-ee-embedded-1.1/1.0.0.CR3/d20f295077cad1dc7490825feb9d07d7652034f2/arquillian-weld-ee-embedded-1.1-1.0.0.CR3.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jboss.arquillian.container/arquillian-weld-ee-embedded-1.1/1.0.0.CR3/334d6140a448ecaa670508e4e87fa89fc9da9dab/arquillian-weld-ee-embedded-1.1-1.0.0.CR3-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

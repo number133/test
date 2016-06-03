@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="kz.jee7.ejb.singleton.ConductorBeanTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2016-05-03T11:33:37" hostname="Sabirgaliyev_A" time="1.081">
+  <properties/>
+  <testcase name="shouldInjectSingletonEJB" classname="kz.jee7.ejb.singleton.ConductorBeanTest" time="1.081"/>
+  <system-out><![CDATA[Found populator: org.glassfish.kernel.embedded.EmbeddedDomainXml
+ConductorBean#shutdown() kz.jee7.ejb.singleton.ConductorBean@1c40d118
+PlainTextActionReporterSUCCESSNo monitoring data to report.
+]]></system-out>
+  <system-err><![CDATA[май 03, 2016 5:33:06 PM org.glassfish.security.services.impl.authorization.AuthorizationServiceImpl initialize
+INFO: Authorization Service has successfully initialized.
+май 03, 2016 5:33:06 PM org.hibernate.validator.internal.util.Version <clinit>
+INFO: HV000001: Hibernate Validator 5.0.0.Final
+май 03, 2016 5:33:08 PM com.sun.enterprise.v3.services.impl.GrizzlyProxy start0
+INFO: Grizzly Framework 2.3.15 started in: 46ms - bound to [/0.0.0.0:8181]
+май 03, 2016 5:33:08 PM com.sun.enterprise.v3.services.impl.GrizzlyService createNetworkProxy
+INFO: Network listener https-listener on port 0 disabled per domain.xml
+май 03, 2016 5:33:08 PM com.sun.enterprise.v3.admin.adapter.AdminEndpointDecider setGuiContextRoot
+INFO: Admin Console Adapter: context root: /admin
+май 03, 2016 5:33:08 PM com.sun.enterprise.v3.admin.adapter.AdminEndpointDecider setGuiContextRoot
+INFO: Admin Console Adapter: context root: /admin
+май 03, 2016 5:33:08 PM com.sun.enterprise.v3.admin.adapter.AdminEndpointDecider setGuiContextRoot
+INFO: Admin Console Adapter: context root: /admin
+май 03, 2016 5:33:10 PM com.sun.enterprise.v3.server.AppServerStartup postStartupJob
+INFO: Undefined Product Name - define product and version info in config/branding  0.0.0  (0) startup time : Embedded (2 324ms), startup services(3 194ms), total(5 518ms)
+май 03, 2016 5:33:11 PM org.glassfish.admin.mbeanserver.JMXStartupService$JMXConnectorsStarterThread run
+INFO: JMXStartupService has disabled JMXConnector system
+май 03, 2016 5:33:11 PM com.sun.enterprise.connectors.jms.util.JmsRaUtil getInstalledMqVersion
+WARNING: jmsra.upgrade_check_failed
+май 03, 2016 5:33:16 PM com.sun.enterprise.security.SecurityLifecycle <init>
+INFO: Java security manager is disabled.
+май 03, 2016 5:33:16 PM com.sun.enterprise.security.SecurityLifecycle onInitialization
+INFO: Entering Security Startup Service.
+май 03, 2016 5:33:16 PM com.sun.enterprise.security.PolicyLoader loadPolicy
+INFO: Loading policy provider com.sun.enterprise.security.jacc.provider.SimplePolicyProvider.
+май 03, 2016 5:33:16 PM com.sun.enterprise.security.auth.realm.Realm doInstantiate
+INFO: Realm [admin-realm] of classtype [com.sun.enterprise.security.auth.realm.file.FileRealm] successfully created.
+май 03, 2016 5:33:16 PM com.sun.enterprise.security.auth.realm.Realm doInstantiate
+INFO: Realm [file] of classtype [com.sun.enterprise.security.auth.realm.file.FileRealm] successfully created.
+май 03, 2016 5:33:16 PM com.sun.enterprise.security.auth.realm.Realm doInstantiate
+INFO: Realm [certificate] of classtype [com.sun.enterprise.security.auth.realm.certificate.CertificateRealm] successfully created.
+май 03, 2016 5:33:16 PM com.sun.enterprise.security.SecurityLifecycle onInitialization
+INFO: Security Service(s) started successfully.
+май 03, 2016 5:33:17 PM com.sun.enterprise.web.WebContainer createHttpListener
+INFO: Created HTTP listener http-listener on host/port 0.0.0.0:8181
+май 03, 2016 5:33:17 PM com.sun.enterprise.web.VirtualServer addProbes
+SEVERE: Error adding HttpProbes. NetworkListener https-listeners GrizzlyProxy is NULL
+май 03, 2016 5:33:18 PM com.sun.enterprise.web.WebContainer createHosts
+INFO: Created virtual server server
+май 03, 2016 5:33:18 PM org.apache.catalina.realm.JAASRealm setContainer
+INFO: Setting JAAS app name glassfish-web
+май 03, 2016 5:33:18 PM com.sun.enterprise.web.WebContainer loadSystemDefaultWebModules
+INFO: Virtual server server loaded default web module 
+май 03, 2016 5:33:30 PM com.sun.jts.CosTransactions.DefaultTransactionService setServerName
+INFO: jts.startup_msg
+май 03, 2016 5:33:31 PM com.sun.ejb.containers.BaseContainer initializeHome
+INFO: Portable JNDI names for EJB ConductorBean: [java:global/test/ConductorBean, java:global/test/ConductorBean!kz.jee7.ejb.singleton.Conductor]
+май 03, 2016 5:33:31 PM com.sun.ejb.containers.BaseContainer initializeHome
+INFO: Glassfish-specific (Non-portable) JNDI names for EJB ConductorBean: [kz.jee7.ejb.singleton.Conductor#kz.jee7.ejb.singleton.Conductor, kz.jee7.ejb.singleton.Conductor]
+май 03, 2016 5:33:31 PM org.jboss.weld.bootstrap.WeldStartup <clinit>
+INFO: WELD-000900: SNAPSHOT
+май 03, 2016 5:33:34 PM org.jboss.weld.event.ExtensionObserverMethodImpl checkRequiredTypeAnnotations
+WARN: WELD-000411: Observer method [BackedAnnotatedMethod] org.glassfish.sse.impl.ServerSentEventCdiExtension.processAnnotatedType(@Observes ProcessAnnotatedType<Object>, BeanManager) receives events for all annotated types. Consider restricting events using @WithAnnotations or a generic type with bounds.
+май 03, 2016 5:33:34 PM org.jboss.weld.event.ExtensionObserverMethodImpl checkRequiredTypeAnnotations
+WARN: WELD-000411: Observer method [BackedAnnotatedMethod] org.glassfish.sse.impl.ServerSentEventCdiExtension.processAnnotatedType(@Observes ProcessAnnotatedType<Object>, BeanManager) receives events for all annotated types. Consider restricting events using @WithAnnotations or a generic type with bounds.
+май 03, 2016 5:33:34 PM org.jboss.weld.event.ExtensionObserverMethodImpl checkRequiredTypeAnnotations
+WARN: WELD-000411: Observer method [BackedAnnotatedMethod] private org.glassfish.jersey.gf.cdi.internal.CdiComponentProvider.processAnnotatedType(@Observes ProcessAnnotatedType<Object>) receives events for all annotated types. Consider restricting events using @WithAnnotations or a generic type with bounds.
+май 03, 2016 5:33:34 PM org.jboss.weld.event.ExtensionObserverMethodImpl checkRequiredTypeAnnotations
+WARN: WELD-000411: Observer method [BackedAnnotatedMethod] public org.glassfish.jms.injection.JMSCDIExtension.processAnnotatedType(@Observes ProcessAnnotatedType<Object>) receives events for all annotated types. Consider restricting events using @WithAnnotations or a generic type with bounds.
+май 03, 2016 5:33:34 PM org.jboss.weld.event.ExtensionObserverMethodImpl checkRequiredTypeAnnotations
+WARN: WELD-000411: Observer method [BackedAnnotatedMethod] public org.glassfish.jms.injection.JMSCDIExtension.processAnnotatedType(@Observes ProcessAnnotatedType<Object>) receives events for all annotated types. Consider restricting events using @WithAnnotations or a generic type with bounds.
+май 03, 2016 5:33:34 PM org.jboss.weld.event.ExtensionObserverMethodImpl checkRequiredTypeAnnotations
+WARN: WELD-000411: Observer method [BackedAnnotatedMethod] private org.glassfish.jersey.gf.cdi.internal.CdiComponentProvider.processAnnotatedType(@Observes ProcessAnnotatedType<Object>) receives events for all annotated types. Consider restricting events using @WithAnnotations or a generic type with bounds.
+май 03, 2016 5:33:36 PM com.sun.enterprise.web.WebApplication start
+INFO: Loading application [test] at [/test]
+май 03, 2016 5:33:36 PM org.glassfish.deployment.admin.DeployCommand execute
+INFO: test was successfully deployed in 23 366 milliseconds.
+май 03, 2016 5:33:38 PM org.glassfish.web.loader.WebappClassLoader checkThreadLocalMapForLeaks
+SEVERE: The web application [/test] created a ThreadLocal with key of type [org.glassfish.pfl.dynamic.codegen.impl.CurrentClassLoader$1] (value [org.glassfish.pfl.dynamic.codegen.impl.CurrentClassLoader$1@1f970bfa]) and a value of type [org.glassfish.web.loader.WebappClassLoader] (value [WebappClassLoader (delegate=true; repositories=WEB-INF/classes/)]) but failed to remove it when the web application was stopped. Threads are going to be renewed over time to try and avoid a probable memory leak.
+май 03, 2016 5:33:38 PM org.glassfish.web.loader.WebappClassLoader checkThreadLocalMapForLeaks
+SEVERE: The web application [/test] created a ThreadLocal with key of type [org.glassfish.pfl.dynamic.codegen.impl.CurrentClassLoader$1] (value [org.glassfish.pfl.dynamic.codegen.impl.CurrentClassLoader$1@1f970bfa]) and a value of type [org.glassfish.web.loader.WebappClassLoader] (value [WebappClassLoader (delegate=true; repositories=WEB-INF/classes/)]) but failed to remove it when the web application was stopped. Threads are going to be renewed over time to try and avoid a probable memory leak.
+]]></system-err>
+</testsuite>

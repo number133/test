@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.jboss.arquillian.container:arquillian-container-impl-base:1.0.2.Final">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jboss.arquillian.container/arquillian-container-impl-base/1.0.2.Final/fc4484267c48e3be9274f88b795e07ec8fbdaecc/arquillian-container-impl-base-1.0.2.Final.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jboss.arquillian.container/arquillian-container-impl-base/1.0.2.Final/a51ab1f41337304095846e08ccee4583582c0d42/arquillian-container-impl-base-1.0.2.Final-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

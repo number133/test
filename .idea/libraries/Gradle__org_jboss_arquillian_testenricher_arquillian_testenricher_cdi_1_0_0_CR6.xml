@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.jboss.arquillian.testenricher:arquillian-testenricher-cdi:1.0.0.CR6">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jboss.arquillian.testenricher/arquillian-testenricher-cdi/1.0.0.CR6/ae94fdeb418b5332589c943a0ab3b844ca358e25/arquillian-testenricher-cdi-1.0.0.CR6.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jboss.arquillian.testenricher/arquillian-testenricher-cdi/1.0.0.CR6/63ebf2c96981ec2f806cb28123c64a4c84a184e9/arquillian-testenricher-cdi-1.0.0.CR6-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

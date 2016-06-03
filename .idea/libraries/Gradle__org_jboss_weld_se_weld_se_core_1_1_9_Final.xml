@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.jboss.weld.se:weld-se-core:1.1.9.Final">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jboss.weld.se/weld-se-core/1.1.9.Final/5618446456d594df3faf55117419c36500ecc2d1/weld-se-core-1.1.9.Final.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jboss.weld.se/weld-se-core/1.1.9.Final/f8d085cc5c6a17f3f37879e9912b6b1e2a14e438/weld-se-core-1.1.9.Final-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

@@ -1,0 +1,2005 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a60c583a-377a-4b2c-9ac6-6970e4088a64" name="Default" comment="" />
+    <ignored path="chapter2.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path=".idea/dataSources.local.xml" />
+    <ignored path="$PROJECT_DIR$/.gradle/" />
+    <ignored path="$PROJECT_DIR$/build/" />
+    <ignored path="$PROJECT_DIR$/chapter3/.gradle/" />
+    <ignored path="$PROJECT_DIR$/chapter3/build/" />
+    <ignored path="$PROJECT_DIR$/chapter6/.gradle/" />
+    <ignored path="$PROJECT_DIR$/chapter6/build/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
+        <task path="$PROJECT_DIR$/chapter3">
+          <activation />
+        </task>
+        <task path="$PROJECT_DIR$/chapter6">
+          <activation />
+        </task>
+        <projects_view>
+          <tree_state>
+            <PATH>
+              <PATH_ELEMENT>
+                <option name="myItemId" value="" />
+                <option name="myItemType" value="com.intellij.openapi.externalSystem.view.ExternalProjectsStructure$RootNode" />
+              </PATH_ELEMENT>
+              <PATH_ELEMENT>
+                <option name="myItemId" value="chapter2" />
+                <option name="myItemType" value="com.intellij.openapi.externalSystem.view.ProjectNode" />
+              </PATH_ELEMENT>
+              <PATH_ELEMENT>
+                <option name="myItemId" value=":chapter6" />
+                <option name="myItemType" value="com.intellij.openapi.externalSystem.view.ModuleNode" />
+              </PATH_ELEMENT>
+            </PATH>
+            <PATH>
+              <PATH_ELEMENT>
+                <option name="myItemId" value="" />
+                <option name="myItemType" value="com.intellij.openapi.externalSystem.view.ExternalProjectsStructure$RootNode" />
+              </PATH_ELEMENT>
+              <PATH_ELEMENT>
+                <option name="myItemId" value="chapter2" />
+                <option name="myItemType" value="com.intellij.openapi.externalSystem.view.ProjectNode" />
+              </PATH_ELEMENT>
+              <PATH_ELEMENT>
+                <option name="myItemId" value=":chapter6" />
+                <option name="myItemType" value="com.intellij.openapi.externalSystem.view.ModuleNode" />
+              </PATH_ELEMENT>
+              <PATH_ELEMENT>
+                <option name="myItemId" value="Dependencies" />
+                <option name="myItemType" value="com.intellij.openapi.externalSystem.view.ExternalSystemViewDefaultContributor$MyDependenciesNode" />
+              </PATH_ELEMENT>
+            </PATH>
+            <PATH>
+              <PATH_ELEMENT>
+                <option name="myItemId" value="" />
+                <option name="myItemType" value="com.intellij.openapi.externalSystem.view.ExternalProjectsStructure$RootNode" />
+              </PATH_ELEMENT>
+              <PATH_ELEMENT>
+                <option name="myItemId" value="chapter2" />
+                <option name="myItemType" value="com.intellij.openapi.externalSystem.view.ProjectNode" />
+              </PATH_ELEMENT>
+            </PATH>
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="chapter2" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="NIOBlockingServer.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/heinz/NIOBlockingServer.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="44" column="5" selection-start-line="44" selection-start-column="5" selection-end-line="44" selection-end-column="5" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="NIOBlockingServerPooling.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/heinz/NIOBlockingServerPooling.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="53" column="0" selection-start-line="53" selection-start-column="0" selection-end-line="53" selection-end-column="0" />
+              <folding>
+                <element signature="e#795#822#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="NIOBlockingServerSelector.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/heinz/NIOBlockingServerSelector.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.6415094">
+              <caret line="45" column="54" selection-start-line="45" selection-start-column="54" selection-end-line="45" selection-end-column="54" />
+              <folding>
+                <element signature="e#2194#2195#0" expanded="true" />
+                <element signature="e#2239#2240#0" expanded="true" />
+                <element signature="method#handle#0;class#NIOBlockingServerSelector#0" expanded="false" />
+                <element signature="method#close#0;class#NIOBlockingServerSelector#0" expanded="false" />
+                <element signature="method#transmogrify#0;class#NIOBlockingServerSelector#0" expanded="false" />
+                <element signature="method#transmogrify#1;class#NIOBlockingServerSelector#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Enum" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="availableProjects">
+      <map>
+        <entry>
+          <key>
+            <ExternalProjectPojo>
+              <option name="name" value="chapter2" />
+              <option name="path" value="$PROJECT_DIR$" />
+            </ExternalProjectPojo>
+          </key>
+          <value>
+            <list>
+              <ExternalProjectPojo>
+                <option name="name" value=":chapter3" />
+                <option name="path" value="$PROJECT_DIR$/chapter3" />
+              </ExternalProjectPojo>
+              <ExternalProjectPojo>
+                <option name="name" value="chapter2" />
+                <option name="path" value="$PROJECT_DIR$" />
+              </ExternalProjectPojo>
+              <ExternalProjectPojo>
+                <option name="name" value=":chapter6" />
+                <option name="path" value="$PROJECT_DIR$/chapter6" />
+              </ExternalProjectPojo>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="availableTasks">
+      <map>
+        <entry key="$PROJECT_DIR$">
+          <value>
+            <list>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles the outputs of this project." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="assemble" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles and tests this project." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="build" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles and tests this project and all projects that depend on it." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="buildDependents" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles and tests this project and all projects it depends on." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="buildNeeded" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Runs all checks." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="check" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles classes 'main'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="classes" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Deletes the build directory." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="clean" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Cleans all Eclipse files." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="cleanEclipse" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="cleanEclipseClasspath" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="cleanEclipseJdt" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="cleanEclipseProject" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Compiles Java source 'main:java'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="compileJava" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Compiles Java source 'test:java'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="compileTestJava" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Generates all Eclipse files." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="eclipse" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Generates the Eclipse classpath file." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="eclipseClasspath" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Generates the Eclipse JDT settings file." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="eclipseJdt" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Generates the Eclipse project file." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="eclipseProject" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Installs the 'archives' artifacts into the local Maven repository." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="install" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles a jar archive containing the main classes." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="jar" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Generates Javadoc API documentation for the main source code." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="javadoc" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Processes JVM resources 'main:resources'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="processResources" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Processes JVM resources 'test:resources'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="processTestResources" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Runs the unit tests." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="test" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles classes 'test'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="testClasses" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="wrapper" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Runs the main application" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="run" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Generates a war archive with all the compiled classes, the web-app content and the libraries." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="war" />
+              </ExternalTaskPojo>
+            </list>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/chapter3">
+          <value>
+            <list>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles the outputs of this project." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/chapter3" />
+                <option name="name" value="assemble" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles and tests this project." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/chapter3" />
+                <option name="name" value="build" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles and tests this project and all projects that depend on it." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/chapter3" />
+                <option name="name" value="buildDependents" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles and tests this project and all projects it depends on." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/chapter3" />
+                <option name="name" value="buildNeeded" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Runs all checks." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/chapter3" />
+                <option name="name" value="check" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles classes 'main'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/chapter3" />
+                <option name="name" value="classes" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Deletes the build directory." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/chapter3" />
+                <option name="name" value="clean" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Compiles Java source 'main:java'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/chapter3" />
+                <option name="name" value="compileJava" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Compiles Java source 'test:java'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/chapter3" />
+                <option name="name" value="compileTestJava" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles a jar archive containing the main classes." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/chapter3" />
+                <option name="name" value="jar" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Generates Javadoc API documentation for the main source code." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/chapter3" />
+                <option name="name" value="javadoc" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Processes JVM resources 'main:resources'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/chapter3" />
+                <option name="name" value="processResources" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Processes JVM resources 'test:resources'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/chapter3" />
+                <option name="name" value="processTestResources" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Runs the unit tests." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/chapter3" />
+                <option name="name" value="test" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles classes 'test'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/chapter3" />
+                <option name="name" value="testClasses" />
+              </ExternalTaskPojo>
+            </list>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/chapter6">
+          <value>
+            <list>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles the outputs of this project." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/chapter6" />
+                <option name="name" value="assemble" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles and tests this project." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/chapter6" />
+                <option name="name" value="build" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles and tests this project and all projects that depend on it." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/chapter6" />
+                <option name="name" value="buildDependents" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles and tests this project and all projects it depends on." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/chapter6" />
+                <option name="name" value="buildNeeded" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Runs all checks." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/chapter6" />
+                <option name="name" value="check" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles classes 'main'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/chapter6" />
+                <option name="name" value="classes" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Deletes the build directory." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/chapter6" />
+                <option name="name" value="clean" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Cleans all Eclipse files." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/chapter6" />
+                <option name="name" value="cleanEclipse" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/chapter6" />
+                <option name="name" value="cleanEclipseClasspath" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/chapter6" />
+                <option name="name" value="cleanEclipseJdt" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/chapter6" />
+                <option name="name" value="cleanEclipseProject" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Compiles Java source 'main:java'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/chapter6" />
+                <option name="name" value="compileJava" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Compiles Java source 'test:java'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/chapter6" />
+                <option name="name" value="compileTestJava" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Generates all Eclipse files." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/chapter6" />
+                <option name="name" value="eclipse" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Generates the Eclipse classpath file." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/chapter6" />
+                <option name="name" value="eclipseClasspath" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Generates the Eclipse JDT settings file." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/chapter6" />
+                <option name="name" value="eclipseJdt" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Generates the Eclipse project file." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/chapter6" />
+                <option name="name" value="eclipseProject" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Installs the 'archives' artifacts into the local Maven repository." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/chapter6" />
+                <option name="name" value="install" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles a jar archive containing the main classes." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/chapter6" />
+                <option name="name" value="jar" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Generates Javadoc API documentation for the main source code." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/chapter6" />
+                <option name="name" value="javadoc" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Processes JVM resources 'main:resources'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/chapter6" />
+                <option name="name" value="processResources" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Processes JVM resources 'test:resources'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/chapter6" />
+                <option name="name" value="processTestResources" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Runs the main application" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/chapter6" />
+                <option name="name" value="run" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Runs the unit tests." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/chapter6" />
+                <option name="name" value="test" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles classes 'test'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/chapter6" />
+                <option name="name" value="testClasses" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Generates a war archive with all the compiled classes, the web-app content and the libraries." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/chapter6" />
+                <option name="name" value="war" />
+              </ExternalTaskPojo>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="modificationStamps">
+      <map>
+        <entry key="$PROJECT_DIR$" value="5850057464291" />
+      </map>
+    </option>
+    <option name="projectBuildClasspath">
+      <map>
+        <entry key="$PROJECT_DIR$">
+          <value>
+            <ExternalProjectBuildClasspathPojo>
+              <option name="modulesBuildClasspath">
+                <map>
+                  <entry key="$PROJECT_DIR$">
+                    <value>
+                      <ExternalModuleBuildClasspathPojo>
+                        <option name="entries">
+                          <list>
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jboss.spec.javax.annotation/jboss-annotations-api_1.1_spec/1.0.0.Final/394e909e8b61259bcd63e9ba8b0d7a636d8db479/jboss-annotations-api_1.1_spec-1.0.0.Final.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jboss.spec.javax.resource/jboss-connector-api_1.5_spec/1.0.0.Final/a94f4dff833a6cd37eb1162b3e93db3ec1d378e4/jboss-connector-api_1.5_spec-1.0.0.Final.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jboss.spec.javax.ejb/jboss-ejb-api_3.1_spec/1.0.0.Final/a80dba5a275de9584707582137203a7a749fdc9c/jboss-ejb-api_3.1_spec-1.0.0.Final.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jboss.spec.javax.el/jboss-el-api_2.2_spec/1.0.0.Final/39d6bd0272bae967e99a60de2c8cf1754e13cfc9/jboss-el-api_2.2_spec-1.0.0.Final.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jboss.spec.javax.interceptor/jboss-interceptors-api_1.1_spec/1.0.0.Final/30f4b941417a72fe02b06a849f85b010467b3e1f/jboss-interceptors-api_1.1_spec-1.0.0.Final.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jboss.spec.javax.security.jacc/jboss-jacc-api_1.4_spec/1.0.0.Final/b69cb291327ad0009870eb485fbf1b9d41708ab1/jboss-jacc-api_1.4_spec-1.0.0.Final.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jboss.spec.javax.enterprise.deploy/jboss-jad-api_1.2_spec/1.0.0.Final/fe6298a32dbe475a156339d3a3a8e20bc802bcab/jboss-jad-api_1.2_spec-1.0.0.Final.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jboss.spec.javax.security.auth.message/jboss-jaspi-api_1.0_spec/1.0.0.Final/a2832db1f8f3577f2cb1c20dcca034e7f7359c1e/jboss-jaspi-api_1.0_spec-1.0.0.Final.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jboss.spec.javax.xml.registry/jboss-jaxr-api_1.0_spec/1.0.0.Final/20251b85415fc1fcd73554a0d04a678d7a7aefc7/jboss-jaxr-api_1.0_spec-1.0.0.Final.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jboss.spec.javax.jms/jboss-jms-api_1.1_spec/1.0.0.Final/fcf14e80bb363847b0ed955df0a5a01242b9f26/jboss-jms-api_1.1_spec-1.0.0.Final.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jboss.spec.javax.servlet.jsp/jboss-jsp-api_2.2_spec/1.0.0.Final/2b629bc9a598edc1f56ae6c98ca92c8346e27834/jboss-jsp-api_2.2_spec-1.0.0.Final.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jboss.spec.javax.servlet/jboss-servlet-api_3.0_spec/1.0.0.Final/44fb8e9dff4a0ec4081bb5492b9a3a9ab9c3466b/jboss-servlet-api_3.0_spec-1.0.0.Final.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jboss.spec.javax.transaction/jboss-transaction-api_1.1_spec/1.0.0.Final/2ab6236535e085d86f37fd97ddfdd35c88c1a419/jboss-transaction-api_1.1_spec-1.0.0.Final.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jboss.spec.javax.xml.bind/jboss-jaxb-api_2.2_spec/1.0.0.Final/6036055b429b25cda82714cc87bd304be06986a7/jboss-jaxb-api_2.2_spec-1.0.0.Final.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jboss.spec.javax.xml.rpc/jboss-jaxrpc-api_1.1_spec/1.0.0.Final/1a10a2215a433d5102aef193692557709ae49573/jboss-jaxrpc-api_1.1_spec-1.0.0.Final.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jboss.spec.javax.xml.soap/jboss-saaj-api_1.3_spec/1.0.0.Final/6aa2fe20556e61f21304c1037aa344d2d08405cd/jboss-saaj-api_1.3_spec-1.0.0.Final.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jboss.spec.javax.xml.ws/jboss-jaxws-api_2.2_spec/1.0.0.Final/8f0ab4968228c8447b59ec179b3a36c66925b499/jboss-jaxws-api_2.2_spec-1.0.0.Final.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/javax.activation/activation/1.1/e6cb541461c2834bdea3eb920f1884d1eb508b50/activation-1.1.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/javax.enterprise/cdi-api/1.0-SP4/6e38490033eb8b36c4cf1f7605163424a574dcf0/cdi-api-1.0-SP4.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.sun.faces/jsf-api/2.0.3-b05/d959dddbb55c2e9b83dab786967e0680d385cd93/jsf-api-2.0.3-b05.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/javax.inject/javax.inject/1/6975da39a7040257bd51d21a231b76c915872d38/javax.inject-1.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/javax.jws/jsr181-api/1.0-MR1/401cc1d0e5f0d8f4d0532a54928ceaa27ec21258/jsr181-api-1.0-MR1.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/javax.mail/mail/1.4.2/6a1d836b6a4c77ec11ac46d2ea8557ca574cd428/mail-1.4.2.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/javax.servlet/jstl/1.2/74aca283cd4f4b4f3e425f5820cda58f44409547/jstl-1.2.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.hibernate.javax.persistence/hibernate-jpa-2.0-api/1.0.0.Final/6728add2c60f6621c3a77ba71fe6f6b798d14ee0/hibernate-jpa-2.0-api-1.0.0.Final.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jboss.resteasy/jaxrs-api/2.1.0.GA/6b35db4c5db99999f2e2e7c7ae7c4723c8a942c4/jaxrs-api-2.1.0.GA.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/stax/stax-api/1.0.1/49c100caf72d658aca8e58bd74a4ba90fa2b0d70/stax-api-1.0.1.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/javax.validation/validation-api/1.0.0.GA/b6bd7f9d78f6fdaa3c37dae18a4bd298915f328e/validation-api-1.0.0.GA.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/javax.xml/jaxrpc-api/1.1/64e6fa9461f714ab2c1a66d552e3200e66d2510b/jaxrpc-api-1.1.jar" />
+                          </list>
+                        </option>
+                        <option name="path" value="$PROJECT_DIR$" />
+                      </ExternalModuleBuildClasspathPojo>
+                    </value>
+                  </entry>
+                  <entry key="$PROJECT_DIR$/chapter3">
+                    <value>
+                      <ExternalModuleBuildClasspathPojo>
+                        <option name="entries">
+                          <list>
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jboss.spec.javax.annotation/jboss-annotations-api_1.1_spec/1.0.0.Final/394e909e8b61259bcd63e9ba8b0d7a636d8db479/jboss-annotations-api_1.1_spec-1.0.0.Final.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jboss.spec.javax.resource/jboss-connector-api_1.5_spec/1.0.0.Final/a94f4dff833a6cd37eb1162b3e93db3ec1d378e4/jboss-connector-api_1.5_spec-1.0.0.Final.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jboss.spec.javax.ejb/jboss-ejb-api_3.1_spec/1.0.0.Final/a80dba5a275de9584707582137203a7a749fdc9c/jboss-ejb-api_3.1_spec-1.0.0.Final.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jboss.spec.javax.el/jboss-el-api_2.2_spec/1.0.0.Final/39d6bd0272bae967e99a60de2c8cf1754e13cfc9/jboss-el-api_2.2_spec-1.0.0.Final.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jboss.spec.javax.interceptor/jboss-interceptors-api_1.1_spec/1.0.0.Final/30f4b941417a72fe02b06a849f85b010467b3e1f/jboss-interceptors-api_1.1_spec-1.0.0.Final.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jboss.spec.javax.security.jacc/jboss-jacc-api_1.4_spec/1.0.0.Final/b69cb291327ad0009870eb485fbf1b9d41708ab1/jboss-jacc-api_1.4_spec-1.0.0.Final.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jboss.spec.javax.enterprise.deploy/jboss-jad-api_1.2_spec/1.0.0.Final/fe6298a32dbe475a156339d3a3a8e20bc802bcab/jboss-jad-api_1.2_spec-1.0.0.Final.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jboss.spec.javax.security.auth.message/jboss-jaspi-api_1.0_spec/1.0.0.Final/a2832db1f8f3577f2cb1c20dcca034e7f7359c1e/jboss-jaspi-api_1.0_spec-1.0.0.Final.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jboss.spec.javax.xml.registry/jboss-jaxr-api_1.0_spec/1.0.0.Final/20251b85415fc1fcd73554a0d04a678d7a7aefc7/jboss-jaxr-api_1.0_spec-1.0.0.Final.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jboss.spec.javax.jms/jboss-jms-api_1.1_spec/1.0.0.Final/fcf14e80bb363847b0ed955df0a5a01242b9f26/jboss-jms-api_1.1_spec-1.0.0.Final.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jboss.spec.javax.servlet.jsp/jboss-jsp-api_2.2_spec/1.0.0.Final/2b629bc9a598edc1f56ae6c98ca92c8346e27834/jboss-jsp-api_2.2_spec-1.0.0.Final.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jboss.spec.javax.servlet/jboss-servlet-api_3.0_spec/1.0.0.Final/44fb8e9dff4a0ec4081bb5492b9a3a9ab9c3466b/jboss-servlet-api_3.0_spec-1.0.0.Final.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jboss.spec.javax.transaction/jboss-transaction-api_1.1_spec/1.0.0.Final/2ab6236535e085d86f37fd97ddfdd35c88c1a419/jboss-transaction-api_1.1_spec-1.0.0.Final.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jboss.spec.javax.xml.bind/jboss-jaxb-api_2.2_spec/1.0.0.Final/6036055b429b25cda82714cc87bd304be06986a7/jboss-jaxb-api_2.2_spec-1.0.0.Final.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jboss.spec.javax.xml.rpc/jboss-jaxrpc-api_1.1_spec/1.0.0.Final/1a10a2215a433d5102aef193692557709ae49573/jboss-jaxrpc-api_1.1_spec-1.0.0.Final.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jboss.spec.javax.xml.soap/jboss-saaj-api_1.3_spec/1.0.0.Final/6aa2fe20556e61f21304c1037aa344d2d08405cd/jboss-saaj-api_1.3_spec-1.0.0.Final.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jboss.spec.javax.xml.ws/jboss-jaxws-api_2.2_spec/1.0.0.Final/8f0ab4968228c8447b59ec179b3a36c66925b499/jboss-jaxws-api_2.2_spec-1.0.0.Final.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/javax.activation/activation/1.1/e6cb541461c2834bdea3eb920f1884d1eb508b50/activation-1.1.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/javax.enterprise/cdi-api/1.0-SP4/6e38490033eb8b36c4cf1f7605163424a574dcf0/cdi-api-1.0-SP4.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.sun.faces/jsf-api/2.0.3-b05/d959dddbb55c2e9b83dab786967e0680d385cd93/jsf-api-2.0.3-b05.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/javax.inject/javax.inject/1/6975da39a7040257bd51d21a231b76c915872d38/javax.inject-1.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/javax.jws/jsr181-api/1.0-MR1/401cc1d0e5f0d8f4d0532a54928ceaa27ec21258/jsr181-api-1.0-MR1.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/javax.mail/mail/1.4.2/6a1d836b6a4c77ec11ac46d2ea8557ca574cd428/mail-1.4.2.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/javax.servlet/jstl/1.2/74aca283cd4f4b4f3e425f5820cda58f44409547/jstl-1.2.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.hibernate.javax.persistence/hibernate-jpa-2.0-api/1.0.0.Final/6728add2c60f6621c3a77ba71fe6f6b798d14ee0/hibernate-jpa-2.0-api-1.0.0.Final.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jboss.resteasy/jaxrs-api/2.1.0.GA/6b35db4c5db99999f2e2e7c7ae7c4723c8a942c4/jaxrs-api-2.1.0.GA.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/stax/stax-api/1.0.1/49c100caf72d658aca8e58bd74a4ba90fa2b0d70/stax-api-1.0.1.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/javax.validation/validation-api/1.0.0.GA/b6bd7f9d78f6fdaa3c37dae18a4bd298915f328e/validation-api-1.0.0.GA.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/javax.xml/jaxrpc-api/1.1/64e6fa9461f714ab2c1a66d552e3200e66d2510b/jaxrpc-api-1.1.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.glassfish.main.extras/glassfish-embedded-all/4.1/a87b6bf3ee3efbd477b67891ee7c33cde61131a5/glassfish-embedded-all-4.1.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/javax/javaee-api/7.0/51399f902cc27a808122edcbebfaa1ad989954ba/javaee-api-7.0.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.sun.mail/javax.mail/1.5.0/ec2410fdf7e0a3022e7c2a2e6241039d1abc1e98/javax.mail-1.5.0.jar" />
+                            <option value="$MAVEN_REPOSITORY$/javax/activation/activation/1.1/activation-1.1.jar" />
+                          </list>
+                        </option>
+                        <option name="path" value="$PROJECT_DIR$/chapter3" />
+                      </ExternalModuleBuildClasspathPojo>
+                    </value>
+                  </entry>
+                  <entry key="$PROJECT_DIR$/chapter6">
+                    <value>
+                      <ExternalModuleBuildClasspathPojo>
+                        <option name="entries">
+                          <list>
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jboss.spec.javax.annotation/jboss-annotations-api_1.1_spec/1.0.0.Final/394e909e8b61259bcd63e9ba8b0d7a636d8db479/jboss-annotations-api_1.1_spec-1.0.0.Final.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jboss.spec.javax.resource/jboss-connector-api_1.5_spec/1.0.0.Final/a94f4dff833a6cd37eb1162b3e93db3ec1d378e4/jboss-connector-api_1.5_spec-1.0.0.Final.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jboss.spec.javax.ejb/jboss-ejb-api_3.1_spec/1.0.0.Final/a80dba5a275de9584707582137203a7a749fdc9c/jboss-ejb-api_3.1_spec-1.0.0.Final.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jboss.spec.javax.el/jboss-el-api_2.2_spec/1.0.0.Final/39d6bd0272bae967e99a60de2c8cf1754e13cfc9/jboss-el-api_2.2_spec-1.0.0.Final.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jboss.spec.javax.interceptor/jboss-interceptors-api_1.1_spec/1.0.0.Final/30f4b941417a72fe02b06a849f85b010467b3e1f/jboss-interceptors-api_1.1_spec-1.0.0.Final.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jboss.spec.javax.security.jacc/jboss-jacc-api_1.4_spec/1.0.0.Final/b69cb291327ad0009870eb485fbf1b9d41708ab1/jboss-jacc-api_1.4_spec-1.0.0.Final.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jboss.spec.javax.enterprise.deploy/jboss-jad-api_1.2_spec/1.0.0.Final/fe6298a32dbe475a156339d3a3a8e20bc802bcab/jboss-jad-api_1.2_spec-1.0.0.Final.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jboss.spec.javax.security.auth.message/jboss-jaspi-api_1.0_spec/1.0.0.Final/a2832db1f8f3577f2cb1c20dcca034e7f7359c1e/jboss-jaspi-api_1.0_spec-1.0.0.Final.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jboss.spec.javax.xml.registry/jboss-jaxr-api_1.0_spec/1.0.0.Final/20251b85415fc1fcd73554a0d04a678d7a7aefc7/jboss-jaxr-api_1.0_spec-1.0.0.Final.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jboss.spec.javax.jms/jboss-jms-api_1.1_spec/1.0.0.Final/fcf14e80bb363847b0ed955df0a5a01242b9f26/jboss-jms-api_1.1_spec-1.0.0.Final.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jboss.spec.javax.servlet.jsp/jboss-jsp-api_2.2_spec/1.0.0.Final/2b629bc9a598edc1f56ae6c98ca92c8346e27834/jboss-jsp-api_2.2_spec-1.0.0.Final.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jboss.spec.javax.servlet/jboss-servlet-api_3.0_spec/1.0.0.Final/44fb8e9dff4a0ec4081bb5492b9a3a9ab9c3466b/jboss-servlet-api_3.0_spec-1.0.0.Final.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jboss.spec.javax.transaction/jboss-transaction-api_1.1_spec/1.0.0.Final/2ab6236535e085d86f37fd97ddfdd35c88c1a419/jboss-transaction-api_1.1_spec-1.0.0.Final.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jboss.spec.javax.xml.bind/jboss-jaxb-api_2.2_spec/1.0.0.Final/6036055b429b25cda82714cc87bd304be06986a7/jboss-jaxb-api_2.2_spec-1.0.0.Final.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jboss.spec.javax.xml.rpc/jboss-jaxrpc-api_1.1_spec/1.0.0.Final/1a10a2215a433d5102aef193692557709ae49573/jboss-jaxrpc-api_1.1_spec-1.0.0.Final.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jboss.spec.javax.xml.soap/jboss-saaj-api_1.3_spec/1.0.0.Final/6aa2fe20556e61f21304c1037aa344d2d08405cd/jboss-saaj-api_1.3_spec-1.0.0.Final.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jboss.spec.javax.xml.ws/jboss-jaxws-api_2.2_spec/1.0.0.Final/8f0ab4968228c8447b59ec179b3a36c66925b499/jboss-jaxws-api_2.2_spec-1.0.0.Final.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/javax.activation/activation/1.1/e6cb541461c2834bdea3eb920f1884d1eb508b50/activation-1.1.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/javax.enterprise/cdi-api/1.0-SP4/6e38490033eb8b36c4cf1f7605163424a574dcf0/cdi-api-1.0-SP4.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.sun.faces/jsf-api/2.0.3-b05/d959dddbb55c2e9b83dab786967e0680d385cd93/jsf-api-2.0.3-b05.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/javax.inject/javax.inject/1/6975da39a7040257bd51d21a231b76c915872d38/javax.inject-1.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/javax.jws/jsr181-api/1.0-MR1/401cc1d0e5f0d8f4d0532a54928ceaa27ec21258/jsr181-api-1.0-MR1.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/javax.mail/mail/1.4.2/6a1d836b6a4c77ec11ac46d2ea8557ca574cd428/mail-1.4.2.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/javax.servlet/jstl/1.2/74aca283cd4f4b4f3e425f5820cda58f44409547/jstl-1.2.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.hibernate.javax.persistence/hibernate-jpa-2.0-api/1.0.0.Final/6728add2c60f6621c3a77ba71fe6f6b798d14ee0/hibernate-jpa-2.0-api-1.0.0.Final.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jboss.resteasy/jaxrs-api/2.1.0.GA/6b35db4c5db99999f2e2e7c7ae7c4723c8a942c4/jaxrs-api-2.1.0.GA.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/stax/stax-api/1.0.1/49c100caf72d658aca8e58bd74a4ba90fa2b0d70/stax-api-1.0.1.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/javax.validation/validation-api/1.0.0.GA/b6bd7f9d78f6fdaa3c37dae18a4bd298915f328e/validation-api-1.0.0.GA.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/javax.xml/jaxrpc-api/1.1/64e6fa9461f714ab2c1a66d552e3200e66d2510b/jaxrpc-api-1.1.jar" />
+                            <option value="$PROJECT_DIR$/unresolved dependency - org.glassfish.main.extras glassfish-embedded-all  4.1" />
+                            <option value="$PROJECT_DIR$/unresolved dependency - javax  javaee-api  7.0" />
+                          </list>
+                        </option>
+                        <option name="path" value="$PROJECT_DIR$/chapter6" />
+                      </ExternalModuleBuildClasspathPojo>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+              <option name="name" value="chapter2" />
+              <option name="projectBuildClasspath">
+                <list>
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.2-all/1vevkra640w3rb9hkuw50q5we/gradle-2.2/src/announce" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.2-all/1vevkra640w3rb9hkuw50q5we/gradle-2.2/src/antlr" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.2-all/1vevkra640w3rb9hkuw50q5we/gradle-2.2/src/base-services" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.2-all/1vevkra640w3rb9hkuw50q5we/gradle-2.2/src/base-services-groovy" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.2-all/1vevkra640w3rb9hkuw50q5we/gradle-2.2/src/build-comparison" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.2-all/1vevkra640w3rb9hkuw50q5we/gradle-2.2/src/build-init" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.2-all/1vevkra640w3rb9hkuw50q5we/gradle-2.2/src/cli" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.2-all/1vevkra640w3rb9hkuw50q5we/gradle-2.2/src/code-quality" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.2-all/1vevkra640w3rb9hkuw50q5we/gradle-2.2/src/core" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.2-all/1vevkra640w3rb9hkuw50q5we/gradle-2.2/src/cunit" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.2-all/1vevkra640w3rb9hkuw50q5we/gradle-2.2/src/dependency-management" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.2-all/1vevkra640w3rb9hkuw50q5we/gradle-2.2/src/diagnostics" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.2-all/1vevkra640w3rb9hkuw50q5we/gradle-2.2/src/ear" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.2-all/1vevkra640w3rb9hkuw50q5we/gradle-2.2/src/ide" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.2-all/1vevkra640w3rb9hkuw50q5we/gradle-2.2/src/ide-native" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.2-all/1vevkra640w3rb9hkuw50q5we/gradle-2.2/src/internal-integ-testing" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.2-all/1vevkra640w3rb9hkuw50q5we/gradle-2.2/src/internal-testing" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.2-all/1vevkra640w3rb9hkuw50q5we/gradle-2.2/src/ivy" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.2-all/1vevkra640w3rb9hkuw50q5we/gradle-2.2/src/jacoco" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.2-all/1vevkra640w3rb9hkuw50q5we/gradle-2.2/src/javascript" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.2-all/1vevkra640w3rb9hkuw50q5we/gradle-2.2/src/jetty" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.2-all/1vevkra640w3rb9hkuw50q5we/gradle-2.2/src/language-groovy" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.2-all/1vevkra640w3rb9hkuw50q5we/gradle-2.2/src/language-java" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.2-all/1vevkra640w3rb9hkuw50q5we/gradle-2.2/src/language-jvm" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.2-all/1vevkra640w3rb9hkuw50q5we/gradle-2.2/src/language-native" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.2-all/1vevkra640w3rb9hkuw50q5we/gradle-2.2/src/launcher" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.2-all/1vevkra640w3rb9hkuw50q5we/gradle-2.2/src/maven" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.2-all/1vevkra640w3rb9hkuw50q5we/gradle-2.2/src/messaging" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.2-all/1vevkra640w3rb9hkuw50q5we/gradle-2.2/src/model-core" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.2-all/1vevkra640w3rb9hkuw50q5we/gradle-2.2/src/model-groovy" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.2-all/1vevkra640w3rb9hkuw50q5we/gradle-2.2/src/native" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.2-all/1vevkra640w3rb9hkuw50q5we/gradle-2.2/src/open-api" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.2-all/1vevkra640w3rb9hkuw50q5we/gradle-2.2/src/osgi" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.2-all/1vevkra640w3rb9hkuw50q5we/gradle-2.2/src/platform-base" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.2-all/1vevkra640w3rb9hkuw50q5we/gradle-2.2/src/platform-jvm" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.2-all/1vevkra640w3rb9hkuw50q5we/gradle-2.2/src/platform-native" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.2-all/1vevkra640w3rb9hkuw50q5we/gradle-2.2/src/plugin-development" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.2-all/1vevkra640w3rb9hkuw50q5we/gradle-2.2/src/plugin-use" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.2-all/1vevkra640w3rb9hkuw50q5we/gradle-2.2/src/plugins" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.2-all/1vevkra640w3rb9hkuw50q5we/gradle-2.2/src/publish" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.2-all/1vevkra640w3rb9hkuw50q5we/gradle-2.2/src/reporting" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.2-all/1vevkra640w3rb9hkuw50q5we/gradle-2.2/src/resources" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.2-all/1vevkra640w3rb9hkuw50q5we/gradle-2.2/src/resources-http" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.2-all/1vevkra640w3rb9hkuw50q5we/gradle-2.2/src/scala" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.2-all/1vevkra640w3rb9hkuw50q5we/gradle-2.2/src/signing" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.2-all/1vevkra640w3rb9hkuw50q5we/gradle-2.2/src/sonar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.2-all/1vevkra640w3rb9hkuw50q5we/gradle-2.2/src/tooling-api" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.2-all/1vevkra640w3rb9hkuw50q5we/gradle-2.2/src/ui" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.2-all/1vevkra640w3rb9hkuw50q5we/gradle-2.2/src/wrapper" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.2-all/1vevkra640w3rb9hkuw50q5we/gradle-2.2/lib/ant-1.9.3.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.2-all/1vevkra640w3rb9hkuw50q5we/gradle-2.2/lib/ant-launcher-1.9.3.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.2-all/1vevkra640w3rb9hkuw50q5we/gradle-2.2/lib/gradle-base-services-2.2.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.2-all/1vevkra640w3rb9hkuw50q5we/gradle-2.2/lib/gradle-base-services-groovy-2.2.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.2-all/1vevkra640w3rb9hkuw50q5we/gradle-2.2/lib/gradle-cli-2.2.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.2-all/1vevkra640w3rb9hkuw50q5we/gradle-2.2/lib/gradle-core-2.2.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.2-all/1vevkra640w3rb9hkuw50q5we/gradle-2.2/lib/gradle-docs-2.2.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.2-all/1vevkra640w3rb9hkuw50q5we/gradle-2.2/lib/gradle-launcher-2.2.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.2-all/1vevkra640w3rb9hkuw50q5we/gradle-2.2/lib/gradle-messaging-2.2.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.2-all/1vevkra640w3rb9hkuw50q5we/gradle-2.2/lib/gradle-model-core-2.2.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.2-all/1vevkra640w3rb9hkuw50q5we/gradle-2.2/lib/gradle-model-groovy-2.2.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.2-all/1vevkra640w3rb9hkuw50q5we/gradle-2.2/lib/gradle-native-2.2.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.2-all/1vevkra640w3rb9hkuw50q5we/gradle-2.2/lib/gradle-open-api-2.2.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.2-all/1vevkra640w3rb9hkuw50q5we/gradle-2.2/lib/gradle-resources-2.2.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.2-all/1vevkra640w3rb9hkuw50q5we/gradle-2.2/lib/gradle-tooling-api-2.2.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.2-all/1vevkra640w3rb9hkuw50q5we/gradle-2.2/lib/gradle-ui-2.2.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.2-all/1vevkra640w3rb9hkuw50q5we/gradle-2.2/lib/gradle-wrapper-2.2.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.2-all/1vevkra640w3rb9hkuw50q5we/gradle-2.2/lib/groovy-all-2.3.6.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.2-all/1vevkra640w3rb9hkuw50q5we/gradle-2.2/lib/plugins/ant-antlr-1.9.3.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.2-all/1vevkra640w3rb9hkuw50q5we/gradle-2.2/lib/plugins/gradle-announce-2.2.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.2-all/1vevkra640w3rb9hkuw50q5we/gradle-2.2/lib/plugins/gradle-antlr-2.2.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.2-all/1vevkra640w3rb9hkuw50q5we/gradle-2.2/lib/plugins/gradle-build-comparison-2.2.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.2-all/1vevkra640w3rb9hkuw50q5we/gradle-2.2/lib/plugins/gradle-build-init-2.2.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.2-all/1vevkra640w3rb9hkuw50q5we/gradle-2.2/lib/plugins/gradle-code-quality-2.2.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.2-all/1vevkra640w3rb9hkuw50q5we/gradle-2.2/lib/plugins/gradle-cunit-2.2.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.2-all/1vevkra640w3rb9hkuw50q5we/gradle-2.2/lib/plugins/gradle-dependency-management-2.2.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.2-all/1vevkra640w3rb9hkuw50q5we/gradle-2.2/lib/plugins/gradle-diagnostics-2.2.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.2-all/1vevkra640w3rb9hkuw50q5we/gradle-2.2/lib/plugins/gradle-ear-2.2.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.2-all/1vevkra640w3rb9hkuw50q5we/gradle-2.2/lib/plugins/gradle-ide-2.2.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.2-all/1vevkra640w3rb9hkuw50q5we/gradle-2.2/lib/plugins/gradle-ide-native-2.2.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.2-all/1vevkra640w3rb9hkuw50q5we/gradle-2.2/lib/plugins/gradle-ivy-2.2.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.2-all/1vevkra640w3rb9hkuw50q5we/gradle-2.2/lib/plugins/gradle-jacoco-2.2.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.2-all/1vevkra640w3rb9hkuw50q5we/gradle-2.2/lib/plugins/gradle-javascript-2.2.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.2-all/1vevkra640w3rb9hkuw50q5we/gradle-2.2/lib/plugins/gradle-jetty-2.2.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.2-all/1vevkra640w3rb9hkuw50q5we/gradle-2.2/lib/plugins/gradle-language-groovy-2.2.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.2-all/1vevkra640w3rb9hkuw50q5we/gradle-2.2/lib/plugins/gradle-language-java-2.2.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.2-all/1vevkra640w3rb9hkuw50q5we/gradle-2.2/lib/plugins/gradle-language-jvm-2.2.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.2-all/1vevkra640w3rb9hkuw50q5we/gradle-2.2/lib/plugins/gradle-language-native-2.2.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.2-all/1vevkra640w3rb9hkuw50q5we/gradle-2.2/lib/plugins/gradle-maven-2.2.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.2-all/1vevkra640w3rb9hkuw50q5we/gradle-2.2/lib/plugins/gradle-osgi-2.2.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.2-all/1vevkra640w3rb9hkuw50q5we/gradle-2.2/lib/plugins/gradle-platform-base-2.2.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.2-all/1vevkra640w3rb9hkuw50q5we/gradle-2.2/lib/plugins/gradle-platform-jvm-2.2.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.2-all/1vevkra640w3rb9hkuw50q5we/gradle-2.2/lib/plugins/gradle-platform-native-2.2.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.2-all/1vevkra640w3rb9hkuw50q5we/gradle-2.2/lib/plugins/gradle-plugin-development-2.2.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.2-all/1vevkra640w3rb9hkuw50q5we/gradle-2.2/lib/plugins/gradle-plugin-use-2.2.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.2-all/1vevkra640w3rb9hkuw50q5we/gradle-2.2/lib/plugins/gradle-plugins-2.2.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.2-all/1vevkra640w3rb9hkuw50q5we/gradle-2.2/lib/plugins/gradle-publish-2.2.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.2-all/1vevkra640w3rb9hkuw50q5we/gradle-2.2/lib/plugins/gradle-reporting-2.2.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.2-all/1vevkra640w3rb9hkuw50q5we/gradle-2.2/lib/plugins/gradle-resources-http-2.2.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.2-all/1vevkra640w3rb9hkuw50q5we/gradle-2.2/lib/plugins/gradle-scala-2.2.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.2-all/1vevkra640w3rb9hkuw50q5we/gradle-2.2/lib/plugins/gradle-signing-2.2.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.2-all/1vevkra640w3rb9hkuw50q5we/gradle-2.2/lib/plugins/gradle-sonar-2.2.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.2-all/1vevkra640w3rb9hkuw50q5we/gradle-2.2/lib/plugins/ivy-2.2.0.jar" />
+                  <option value="$PROJECT_DIR$/buildSrc/src/main/java" />
+                  <option value="$PROJECT_DIR$/buildSrc/src/main/groovy" />
+                </list>
+              </option>
+            </ExternalProjectBuildClasspathPojo>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/build.gradle" />
+        <option value="$PROJECT_DIR$/src/main/java/kz/jee7/cdi/CreditProcessor.java" />
+        <option value="$PROJECT_DIR$/src/main/java/kz/jee7/cdi/Economy.java" />
+        <option value="$PROJECT_DIR$/src/main/java/kz/jee7/cdi/Premium.java" />
+        <option value="$PROJECT_DIR$/src/main/java/kz/jee7/cdi/PremiumCreditProcessor.java" />
+        <option value="$PROJECT_DIR$/src/test/java/kz/jee7/cdi/EconomyCreditProcessorTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/kz/jee7/cdi/HouseholdCredit.java" />
+        <option value="$PROJECT_DIR$/src/main/java/kz/jee7/cdi/interceptor/TransactionalBound.java" />
+        <option value="$PROJECT_DIR$/src/main/java/kz/jee7/cdi/interceptor/TransactionalBoundInterceptor.java" />
+        <option value="$PROJECT_DIR$/src/main/java/kz/jee7/cdi/TransactionalCreditProcessor.java" />
+        <option value="$PROJECT_DIR$/src/test/java/kz/jee7/cdi/TransactionalCreditProcessorTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/kz/jee7/cdi/decorator/SanctionService.java" />
+        <option value="$PROJECT_DIR$/src/main/java/kz/jee7/cdi/decorator/CreditProcessorDecorator.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/META-INF/beans.xml" />
+        <option value="$PROJECT_DIR$/src/test/java/kz/jee7/cdi/CreditProcessorDecoratorTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/kz/jee7/cdi/event/ApplicationApproved.java" />
+        <option value="$PROJECT_DIR$/src/main/java/kz/jee7/cdi/event/ApprovalNotifier.java" />
+        <option value="$PROJECT_DIR$/src/main/java/kz/jee7/cdi/event/CreditApprovalPostProcess.java" />
+        <option value="$PROJECT_DIR$/chapter3/build.gradle" />
+        <option value="$PROJECT_DIR$/chapter3/src/main/resources/META-INF/beans.xml" />
+        <option value="$PROJECT_DIR$/chapter3/src/main/java/kz/jee7/ejb/SupportHelpDesk.java" />
+        <option value="$PROJECT_DIR$/chapter3/src/test/java/kz/jee7/ejb/SupportHelpDeskTest.java" />
+        <option value="$PROJECT_DIR$/chapter3/src/main/java/kz/jee7/ejb/Customer.java" />
+        <option value="$PROJECT_DIR$/chapter3/src/main/java/kz/jee7/ejb/ShoppingCartLocal.java" />
+        <option value="$PROJECT_DIR$/chapter3/src/main/java/kz/jee7/ejb/ShoppingCart.java" />
+        <option value="$PROJECT_DIR$/chapter3/src/main/java/kz/jee7/ejb/ShoppingCartBean.java" />
+        <option value="$PROJECT_DIR$/chapter3/src/main/java/kz/jee7/ejb/OrderItem.java" />
+        <option value="$PROJECT_DIR$/chapter3/src/main/java/kz/jee7/ejb/Product.java" />
+        <option value="$PROJECT_DIR$/chapter3/src/test/java/kz/jee7/ejb/ShoppingCartBeanTest.java" />
+        <option value="$PROJECT_DIR$/chapter3/src/main/java/kz/jee7/ejb/singleton/Conductor.java" />
+        <option value="$PROJECT_DIR$/chapter3/src/main/java/kz/jee7/ejb/singleton/ConductorBean.java" />
+        <option value="$PROJECT_DIR$/chapter3/src/test/java/kz/jee7/ejb/singleton/ConductorBeanTest.java" />
+        <option value="$PROJECT_DIR$/chapter6/build.gradle" />
+        <option value="$PROJECT_DIR$/chapter6/src/main/java/kz/jee7/glassfish/EmbeddedRunner.java" />
+        <option value="$PROJECT_DIR$/src/main/java/TrafficLightSimulator.java" />
+        <option value="$PROJECT_DIR$/src/main/java/TrafficLightColor.java" />
+        <option value="$PROJECT_DIR$/src/main/java/QuickSort.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ParallelQuickSort.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ParallelQuickSortNonLock.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Conc.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ServerThread.java" />
+        <option value="$PROJECT_DIR$/src/main/java/SocketServer.java" />
+        <option value="$PROJECT_DIR$/src/main/java/heinz/BlockingServer.java" />
+        <option value="$PROJECT_DIR$/src/main/java/heinz/BlockingServerThreaded.java" />
+        <option value="$PROJECT_DIR$/src/main/java/heinz/GrumpyChump.java" />
+        <option value="$PROJECT_DIR$/src/main/java/heinz/NIOBlockingServer.java" />
+        <option value="$PROJECT_DIR$/src/main/java/heinz/NIOBlockingServerPooling.java" />
+        <option value="$PROJECT_DIR$/src/main/java/heinz/NIOBlockingServerSelector.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="Bundled (Maven 2)" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="NamedScopeManager">
+    <order />
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="width" value="640" />
+    <option name="height" value="980" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages ProjectPane="false" />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="chapter2" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="chapter2" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="chapter2" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="chapter2" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="chapter2" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="chapter2" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="chapter2" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="chapter2" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="chapter2" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="chapter2" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="chapter2" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="heinz" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+        <option name="show-excluded-files" value="false" />
+      </pane>
+      <pane id="Scope" />
+      <pane id="Scratches" />
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="GoToClass.includeLibraries" value="false" />
+    <property name="GoToClass.toSaveIncludeLibraries" value="false" />
+    <property name="GoToFile.includeJavaFiles" value="false" />
+    <property name="MemberChooser.sorted" value="false" />
+    <property name="MemberChooser.showClasses" value="true" />
+    <property name="MemberChooser.copyJavadoc" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="FullScreen" value="false" />
+    <property name="project.structure.last.edited" value="Global Libraries" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.37927845" />
+    <property name="OverrideImplement.combined" value="true" />
+    <property name="OverrideImplement.overriding.sorted" value="false" />
+    <property name="recentsLimit" value="5" />
+    <property name="dynamic.classpath" value="false" />
+    <property name="settings.editor.selected.configurable" value="reference.settings.project.maven.repository.indices" />
+    <property name="settings.editor.splitter.proportion" value="0.2" />
+    <property name="last_opened_file_path" value="D:/App/jboss-as-7.1.1.Final/modules" />
+    <property name="extract.method.default.visibility" value="private" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="heinz" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Projects4\ee7\chapter2\chapter3\src\main\resources\META-INF" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.NIOBlockingServerSelector">
+    <configuration default="false" name="BlockingServerThreaded" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="heinz.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="heinz.BlockingServerThreaded" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="chapter2" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="GrumpyChump" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="heinz.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="heinz.GrumpyChump" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="chapter2" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="NIOBlockingServer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="heinz.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="heinz.NIOBlockingServer" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="chapter2" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="NIOBlockingServerPooling" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="heinz.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="heinz.NIOBlockingServerPooling" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="chapter2" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="NIOBlockingServerSelector" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="heinz.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="heinz.NIOBlockingServerSelector" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="chapter2" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <method />
+    </configuration>
+    <configuration default="true" type="AndroidRunConfigurationType" factoryName="Android Application">
+      <module name="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="DEPLOY" value="true" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="TARGET_SELECTION_MODE" value="EMULATOR" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="USE_COMMAND_LINE" value="true" />
+      <option name="COMMAND_LINE" value="" />
+      <option name="WIPE_USER_DATA" value="false" />
+      <option name="DISABLE_BOOT_ANIMATION" value="false" />
+      <option name="NETWORK_SPEED" value="full" />
+      <option name="NETWORK_LATENCY" value="none" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
+      <option name="FILTER_LOGCAT_AUTOMATICALLY" value="true" />
+      <method />
+    </configuration>
+    <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Tests">
+      <module name="" />
+      <option name="TESTING_TYPE" value="0" />
+      <option name="INSTRUMENTATION_RUNNER_CLASS" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TARGET_SELECTION_MODE" value="EMULATOR" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="USE_COMMAND_LINE" value="true" />
+      <option name="COMMAND_LINE" value="" />
+      <option name="WIPE_USER_DATA" value="false" />
+      <option name="DISABLE_BOOT_ANIMATION" value="false" />
+      <option name="NETWORK_SPEED" value="full" />
+      <option name="NETWORK_LATENCY" value="none" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
+      <option name="FILTER_LOGCAT_AUTOMATICALLY" value="true" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <module />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="myFilePath" />
+      <option name="GLUE" />
+      <option name="myNameFilter" />
+      <option name="myGeneratedName" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="FlashRunConfigurationType" factoryName="Flash App">
+      <option name="BCName" value="" />
+      <option name="IOSSimulatorSdkPath" value="" />
+      <option name="adlOptions" value="" />
+      <option name="airProgramParameters" value="" />
+      <option name="appDescriptorForEmulator" value="Android" />
+      <option name="debugTransport" value="USB" />
+      <option name="debuggerSdkRaw" value="BC SDK" />
+      <option name="emulator" value="NexusOne" />
+      <option name="emulatorAdlOptions" value="" />
+      <option name="fastPackaging" value="true" />
+      <option name="fullScreenHeight" value="0" />
+      <option name="fullScreenWidth" value="0" />
+      <option name="launchUrl" value="false" />
+      <option name="launcherParameters">
+        <LauncherParameters>
+          <option name="browser" value="a7bb68e0-33c0-4d6f-a81a-aac1fdb870c8" />
+          <option name="launcherType" value="OSDefault" />
+          <option name="newPlayerInstance" value="false" />
+          <option name="playerPath" value="FlashPlayerDebugger.exe" />
+        </LauncherParameters>
+      </option>
+      <option name="mobileRunTarget" value="Emulator" />
+      <option name="moduleName" value="" />
+      <option name="overriddenMainClass" value="" />
+      <option name="overriddenOutputFileName" value="" />
+      <option name="overrideMainClass" value="false" />
+      <option name="runTrusted" value="true" />
+      <option name="screenDpi" value="0" />
+      <option name="screenHeight" value="0" />
+      <option name="screenWidth" value="0" />
+      <option name="url" value="http://" />
+      <option name="usbDebugPort" value="7936" />
+      <method />
+    </configuration>
+    <configuration default="true" type="FlexUnitRunConfigurationType" factoryName="FlexUnit" appDescriptorForEmulator="Android" class_name="" emulatorAdlOptions="" method_name="" package_name="" scope="Class">
+      <option name="BCName" value="" />
+      <option name="launcherParameters">
+        <LauncherParameters>
+          <option name="browser" value="a7bb68e0-33c0-4d6f-a81a-aac1fdb870c8" />
+          <option name="launcherType" value="OSDefault" />
+          <option name="newPlayerInstance" value="false" />
+          <option name="playerPath" value="FlashPlayerDebugger.exe" />
+        </LauncherParameters>
+      </option>
+      <option name="moduleName" value="" />
+      <option name="trusted" value="true" />
+      <method />
+    </configuration>
+    <configuration default="true" type="GradleRunConfiguration" factoryName="Gradle">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list />
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <method />
+    </configuration>
+    <configuration default="true" type="GrailsRunConfigurationType" factoryName="Grails">
+      <module name="" />
+      <setting name="vmparams" value="" />
+      <setting name="cmdLine" value="run-app" />
+      <setting name="depsClasspath" value="false" />
+      <setting name="passParentEnv" value="true" />
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <setting name="launchBrowser" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="true" type="JarApplication" factoryName="JAR Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+      <method />
+    </configuration>
+    <configuration default="true" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <pass-parent-envs>true</pass-parent-envs>
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="osgi.bnd.run" factoryName="Run Launcher">
+      <method />
+    </configuration>
+    <configuration default="true" type="osgi.bnd.run" factoryName="Test Launcher (JUnit)">
+      <method />
+    </configuration>
+    <configuration default="false" name="shouldRetrieveDifferentAgents" type="GradleRunConfiguration" factoryName="Gradle">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/chapter3" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;kz.jee7.ejb.SupportHelpDeskTest.shouldRetrieveDifferentAgents&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="cleanTest" />
+            <option value="test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <method />
+    </configuration>
+    <list size="6">
+      <item index="0" class="java.lang.String" itemvalue="Gradle.shouldRetrieveDifferentAgents" />
+      <item index="1" class="java.lang.String" itemvalue="Application.BlockingServerThreaded" />
+      <item index="2" class="java.lang.String" itemvalue="Application.GrumpyChump" />
+      <item index="3" class="java.lang.String" itemvalue="Application.NIOBlockingServer" />
+      <item index="4" class="java.lang.String" itemvalue="Application.NIOBlockingServerPooling" />
+      <item index="5" class="java.lang.String" itemvalue="Application.NIOBlockingServerSelector" />
+    </list>
+    <recent_temporary>
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="Application.NIOBlockingServerSelector" />
+        <item index="1" class="java.lang.String" itemvalue="Application.GrumpyChump" />
+        <item index="2" class="java.lang.String" itemvalue="Application.NIOBlockingServerPooling" />
+        <item index="3" class="java.lang.String" itemvalue="Application.NIOBlockingServer" />
+        <item index="4" class="java.lang.String" itemvalue="Application.BlockingServerThreaded" />
+      </list>
+    </recent_temporary>
+    <configuration name="&lt;template&gt;" type="WebApp" default="true" selected="false">
+      <Host>localhost</Host>
+      <Port>5050</Port>
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a60c583a-377a-4b2c-9ac6-6970e4088a64" name="Default" comment="" />
+      <created>1461738555154</created>
+      <option name="number" value="Default" />
+      <updated>1461738555154</updated>
+      <workItem from="1461738561296" duration="1787000" />
+      <workItem from="1461742669784" duration="9305000" />
+      <workItem from="1462247445502" duration="14105000" />
+      <workItem from="1463027692530" duration="12769000" />
+      <workItem from="1464175905189" duration="2905000" />
+      <workItem from="1464752956257" duration="1494000" />
+      <workItem from="1464773375826" duration="11005000" />
+      <workItem from="1464947538258" duration="7495000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="60865000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="0" width="640" height="980" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Bean Validation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33410674" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.28654292" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="JSF" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32946634" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="CDI" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.21486267" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.54745764" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2935035" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/QuickSort.java</url>
+          <line>41</line>
+          <properties />
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/QuickSort.java</url>
+          <line>17</line>
+          <properties />
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/heinz/BlockingServer.java</url>
+          <line>18</line>
+          <properties />
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/heinz/GrumpyChump.java</url>
+          <line>21</line>
+          <properties />
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/heinz/NIOBlockingServerSelector.java</url>
+          <line>33</line>
+          <properties />
+          <option name="timeStamp" value="21" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/heinz/NIOBlockingServerSelector.java</url>
+          <line>44</line>
+          <properties />
+          <option name="timeStamp" value="22" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="23" />
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="Application">
+        <watch expression="System.console()" language="JAVA" custom="" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/test/java/kz/jee7/cdi/CreditProcessorDecoratorTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="1.3792415">
+          <caret line="43" column="19" selection-start-line="43" selection-start-column="19" selection-end-line="43" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/kz/jee7/cdi/decorator/SanctionService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.2035928">
+          <caret line="6" column="3" selection-start-line="6" selection-start-column="3" selection-end-line="6" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/kz/jee7/cdi/decorator/CreditProcessorDecorator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.7285429">
+          <caret line="27" column="5" selection-start-line="27" selection-start-column="5" selection-end-line="27" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/kz/jee7/cdi/event/ApplicationApproved.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="13" column="48" selection-start-line="13" selection-start-column="48" selection-end-line="13" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/kz/jee7/cdi/event/ApprovalNotifier.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="16" column="5" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/kz/jee7/cdi/event/CreditApprovalPostProcess.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="18" column="1" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter3/src/main/resources/META-INF/beans.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.15370706">
+          <caret line="5" column="4" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter3/src/main/java/kz/jee7/ejb/ShoppingCartLocal.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="15" column="8" selection-start-line="15" selection-start-column="8" selection-end-line="15" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter3/src/main/java/kz/jee7/ejb/SupportHelpDesk.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.4455645">
+          <caret line="14" column="30" selection-start-line="14" selection-start-column="30" selection-end-line="14" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter3/src/main/java/kz/jee7/ejb/Customer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="20" column="30" selection-start-line="20" selection-start-column="30" selection-end-line="20" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter3/src/main/java/kz/jee7/ejb/ShoppingCart.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="16" column="19" selection-start-line="16" selection-start-column="19" selection-end-line="16" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter3/src/main/java/kz/jee7/ejb/Product.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.8175313">
+          <caret line="29" column="1" selection-start-line="29" selection-start-column="1" selection-end-line="29" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter3/src/main/java/kz/jee7/ejb/OrderItem.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.27370304">
+          <caret line="9" column="33" selection-start-line="9" selection-start-column="33" selection-end-line="9" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter3/src/main/java/kz/jee7/ejb/ShoppingCartBean.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="60" column="1" selection-start-line="60" selection-start-column="1" selection-end-line="60" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter3/src/main/java/kz/jee7/ejb/singleton/Conductor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="10" column="28" selection-start-line="10" selection-start-column="28" selection-end-line="10" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter3/src/main/java/kz/jee7/ejb/singleton/ConductorBean.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="32" column="5" selection-start-line="32" selection-start-column="5" selection-end-line="32" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter3/src/test/java/kz/jee7/ejb/singleton/ConductorBeanTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.6042654">
+          <caret line="35" column="30" selection-start-line="35" selection-start-column="30" selection-end-line="35" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter3/src/test/java/kz/jee7/ejb/ShoppingCartBeanTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.6848341">
+          <caret line="34" column="5" selection-start-line="34" selection-start-column="5" selection-end-line="34" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter3/src/test/java/kz/jee7/ejb/SupportHelpDeskTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.3957346">
+          <caret line="21" column="34" selection-start-line="21" selection-start-column="34" selection-end-line="21" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter3/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="20" column="34" selection-start-line="20" selection-start-column="34" selection-end-line="20" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter6/src/main/java/kz/jee7/glassfish/EmbeddedRunner.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="4" column="41" selection-start-line="4" selection-start-column="41" selection-end-line="4" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/App/Java/jdk1.7.0_67/src.zip!/java/util/concurrent/Future.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="1.8922801">
+          <caret line="95" column="17" selection-start-line="95" selection-start-column="17" selection-end-line="95" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/App/Java/jdk1.7.0_67/src.zip!/java/util/concurrent/atomic/AtomicBoolean.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.24416517">
+          <caret line="32" column="52" selection-start-line="32" selection-start-column="52" selection-end-line="32" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/App/Java/jdk1.7.0_67/src.zip!/java/util/Random.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="2.0779467">
+          <caret line="297" column="15" selection-start-line="297" selection-start-column="15" selection-end-line="297" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/App/Java/jdk1.7.0_67/src.zip!/java/lang/Void.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.38593155">
+          <caret line="36" column="6" selection-start-line="36" selection-start-column="6" selection-end-line="36" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter6/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.6768061">
+          <caret line="23" column="66" selection-start-line="23" selection-start-column="66" selection-end-line="23" selection-end-column="66" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/App/Java/jdk1.7.0_67/jre/lib/rt.jar!/sun/reflect/NativeMethodAccessorImpl.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.6087824">
+          <caret line="29" column="0" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/App/Java/jdk1.7.0_67/jre/lib/rt.jar!/sun/reflect/DelegatingMethodAccessorImpl.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.4071856">
+          <caret line="18" column="0" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/App/Java/jdk1.7.0_67/src.zip!/java/lang/reflect/Method.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.62357414">
+          <caret line="605" column="0" selection-start-line="605" selection-start-column="0" selection-end-line="605" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/TrafficLightColor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.14099526">
+          <caret line="7" column="1" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/TrafficLightSimulator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="23" column="21" selection-start-line="23" selection-start-column="21" selection-end-line="23" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/App/Java/jdk1.7.0_67/src.zip!/java/lang/System.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="1.690114">
+          <caret line="395" column="30" selection-start-line="395" selection-start-column="30" selection-end-line="395" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ParallelQuickSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="5" column="0" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/QuickSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="9" column="11" selection-start-line="9" selection-start-column="11" selection-end-line="9" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ParallelQuickSortNonLock.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="43" column="23" selection-start-line="43" selection-start-column="23" selection-end-line="43" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Conc.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="14" column="21" selection-start-line="14" selection-start-column="21" selection-end-line="14" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/App/Java/jdk1.7.0_67/src.zip!/java/text/DecimalFormat.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.33272058">
+          <caret line="2800" column="20" selection-start-line="2800" selection-start-column="20" selection-end-line="2800" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/App/Java/jdk1.7.0_67/src.zip!/java/text/Format.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-1.2628677">
+          <caret line="132" column="22" selection-start-line="132" selection-start-column="22" selection-end-line="132" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/App/Java/jdk1.7.0_67/src.zip!/java/text/NumberFormat.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.25">
+          <caret line="181" column="45" selection-start-line="181" selection-start-column="45" selection-end-line="181" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/App/Java/jdk1.7.0_67/src.zip!/java/util/concurrent/ConcurrentLinkedDeque.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="1.71875">
+          <caret line="94" column="33" selection-start-line="94" selection-start-column="33" selection-end-line="94" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/App/Java/jdk1.7.0_67/src.zip!/java/util/Queue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.39522058">
+          <caret line="145" column="22" selection-start-line="145" selection-start-column="22" selection-end-line="145" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/App/Java/jdk1.7.0_67/src.zip!/java/util/AbstractQueue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.39522058">
+          <caret line="65" column="17" selection-start-line="65" selection-start-column="17" selection-end-line="65" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/App/Java/jdk1.7.0_67/src.zip!/java/util/PriorityQueue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.53125">
+          <caret line="79" column="43" selection-start-line="79" selection-start-column="43" selection-end-line="79" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ServerThread.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.40625">
+          <caret line="39" column="33" selection-start-line="39" selection-start-column="33" selection-end-line="39" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/SocketServer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.375">
+          <caret line="15" column="19" selection-start-line="15" selection-start-column="19" selection-end-line="15" selection-end-column="19" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/heinz/BlockingServer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="40" column="5" selection-start-line="15" selection-start-column="4" selection-end-line="40" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/heinz/BlockingServerThreaded.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="34" column="22" selection-start-line="34" selection-start-column="22" selection-end-line="34" selection-end-column="22" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#838#839#0" expanded="true" />
+            <element signature="e#872#873#0" expanded="true" />
+            <element signature="e#917#918#0" expanded="true" />
+            <element signature="e#950#951#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/heinz/NIOBlockingServer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="44" column="5" selection-start-line="44" selection-start-column="5" selection-end-line="44" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/heinz/GrumpyChump.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="20" column="9" selection-start-line="20" selection-start-column="9" selection-end-line="20" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/heinz/NIOBlockingServerPooling.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="53" column="0" selection-start-line="53" selection-start-column="0" selection-end-line="53" selection-end-column="0" />
+          <folding>
+            <element signature="e#795#822#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/heinz/NIOBlockingServerSelector.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.6415094">
+          <caret line="45" column="54" selection-start-line="45" selection-start-column="54" selection-end-line="45" selection-end-column="54" />
+          <folding>
+            <element signature="e#2194#2195#0" expanded="true" />
+            <element signature="e#2239#2240#0" expanded="true" />
+            <element signature="method#handle#0;class#NIOBlockingServerSelector#0" expanded="false" />
+            <element signature="method#close#0;class#NIOBlockingServerSelector#0" expanded="false" />
+            <element signature="method#transmogrify#0;class#NIOBlockingServerSelector#0" expanded="false" />
+            <element signature="method#transmogrify#1;class#NIOBlockingServerSelector#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>modules</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.37927845" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.7</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.37927845" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>chapter6</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.7</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Gradle: ch.qos.cal10n:cal10n-api:0.7.4</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.37927845" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
